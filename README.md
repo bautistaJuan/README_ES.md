@@ -92,5 +92,3 @@ APX School
 ## Contact
 
 * LinkedIn: linkedin.com/in/juanbautistavega
-* GitHub: github.com/bautistaJuan
-* Email: [vegajuancontactl@gmail.com](mailto:vegajuancontactl@gmail.com)
